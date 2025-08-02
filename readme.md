@@ -63,7 +63,7 @@ Built using:
 
 📸 **Dashboard Preview:**
 
-![Employee Attrition Dashboard](images/Dashboard.png)
+![Employee Attrition Dashboard](Dashboard.png)
 
 ---
 
