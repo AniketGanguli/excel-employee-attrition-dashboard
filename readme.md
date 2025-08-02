@@ -63,7 +63,8 @@ Built using:
 
 📸 **Dashboard Preview:**
 
-![Employee Attrition Dashboard](1bf92a61-5f9f-472e-87b0-af2a7b4b2cde.png)
+![Employee Attrition Dashboard](<img width="1501" height="671" alt="Screenshot 2025-08-03 005707" src="https://github.com/user-attachments/assets/b79ab031-982e-4f5c-ae40-6747cd834ba5" />
+)
 
 ---
 
